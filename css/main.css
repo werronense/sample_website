@@ -2,6 +2,55 @@
   text-align: right;
 }
 
+.nav-link {
+  text-decoration: none;
+  color: blue;
+}
+
 .nav-spacing {
   margin: 0 0 0 10px;
+}
+
+header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 20px
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.review {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.quote-open {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+
+#cover-image {
+  height: 200px;
+  float: left;
+  margin: 0 40px 0 0;
+}
+
+#whales {
+  display: block;
+  margin: 0 auto;
+}
+
+#lincoln-quote {
+  padding: 2px 20px; 
+  background-color: #fafafa;
 }
